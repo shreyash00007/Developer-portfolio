@@ -3,11 +3,18 @@ import './mobile.css';
 
 function Footer() {
     return (
-        <div>
-            <h1 className="text-3xl ">
-                Hello world!
-            </h1>
-        </div>
+        <footer>
+            <nav>
+                <div class="nav-links-container">
+                    <ul class="nav-links">
+                        <li><a href="#skills">Skills</a></li>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+            </nav>
+            <p>Copyright &#169; 2023 Shreyash Dhanawade. All Rights Reserved.</p>
+        </footer>
     );
 }
 

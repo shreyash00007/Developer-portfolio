@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'; // Import React and other necessary modules
 import './App.css';
 import './mobile.css';
-import darkIcon from './assets/theme_dark.png';
-import lightIcon from './assets/theme_light.png';
+import lightIcon from './assets/theme_dark.png';
+import darkIcon from './assets/theme_light.png';
 
 function toggleMenu() {
     const menu = document.querySelector(".menu-links");
@@ -45,7 +45,7 @@ function Nav() {
                     <div className="logo">Shreyash Dhanawade</div>
                     <div>
                         <ul className="nav-links">
-                            <li><a href="#about">About</a></li>
+                            <li><a href="#skills">Skills</a></li>
                             <li><a href="#projects">Projects</a></li>
                             <li><a href="#contact">Contact</a></li>
                             <li>

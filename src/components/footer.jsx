@@ -1,4 +1,5 @@
 import './App.css';
+import './mobile.css';
 
 function Footer() {
     return (

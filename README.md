@@ -1,3 +1,3 @@
-# Shreyash Developer-portfolio
+# Shreyash Developer Portfolio
 
 <!-- ![Logo](./assets/site-img.png) -->
